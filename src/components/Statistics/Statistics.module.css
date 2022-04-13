@@ -1,0 +1,36 @@
+.statBox {
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  list-style: none;
+  padding: 0;
+  list-style: none;
+  border: 2px solid rgb(105, 61, 30);
+  border-radius: 4px;
+  margin: 0 auto 20px auto;
+  width: 300px;
+}
+.list {
+  padding: 0 40px;
+}
+.item {
+  font-weight: 500;
+  display: flex;
+  list-style: none;
+  padding: 5px;
+}
+.feetBack {
+  font-weight: 500;
+  margin-left: 10px;
+}
+.titleTotal {
+  font-weight: 700;
+  display: flex;
+  padding: 0 40px;
+}
+
+.titlePercent {
+  font-weight: 700;
+  display: flex;
+  padding: 0 40px;
+}
